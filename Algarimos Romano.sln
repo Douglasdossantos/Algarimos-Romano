@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algarimos Romano", "Algarimos Romano\Algarimos Romano.csproj", "{4BA27522-EF25-4E28-85D9-96456627FA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA27522-EF25-4E28-85D9-96456627FA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA27522-EF25-4E28-85D9-96456627FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA27522-EF25-4E28-85D9-96456627FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA27522-EF25-4E28-85D9-96456627FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3166DCBD-D039-42B7-8417-8DFA4BF67708}
+	EndGlobalSection
+EndGlobal
